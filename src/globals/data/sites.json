@@ -1,0 +1,24 @@
+{
+  "sites": [
+    {
+      "dir": "rtl",
+      "name": "english",
+      "mode": "horizontal-tb"
+    },
+    {
+      "dir": "rtl",
+      "name": "spanish",
+      "mode": "horizontal-tb"
+    },
+    {
+      "dir": "ltr",
+      "name": "hebrew",
+      "mode": "horizontal-tb"
+    },
+    {
+      "dir": "ltr",
+      "name": "japanese",
+      "mode": "vertical-rl"
+    }
+  ]
+}
